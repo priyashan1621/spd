@@ -2,7 +2,7 @@ package pro;
 
 import java.util.Scanner;
 
-public class Pangram {
+public class Pan {
 
 	public static void main(String[] args) {
 
